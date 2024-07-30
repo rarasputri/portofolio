@@ -247,23 +247,23 @@
     @keyframes words {
         0%,
         20%{
-            content: "Student";
+            content: "Raras Putri Pebriana";
         }
         21%,
         40%{
-            content: "Web Desaigner";
+            content: "Class XI RPL B";
         }
         41%,
         60%{
-            content: "Fronted Designer";
+            content: "Student";
         }
         61%,
         80%{
-            content: "Web developer";
+            content: "SMKN 2 KARANGANYAR";
         }
         81%,
         100%{
-            content: "Software Engineer";
+            content: "Software Engineering";
         }
     }
     @keyframes typing {
